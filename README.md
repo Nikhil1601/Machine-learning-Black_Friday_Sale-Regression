@@ -1,4 +1,4 @@
-Black_Friday_Sale_Predection_and_analysis 
+Black_Friday_Sales_Predection_and_analysis 
 === 
 Data Set information
 --
